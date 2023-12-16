@@ -1,0 +1,11 @@
+STUDENT NAME                   AVERAGE PROGRAM NAME        TUITION OWED
+JONES, WILLIAM                            269    YCOMPUTER PRGRAMMER     1,000.00
+SMITH, FRED                               268    XCOMPUTER TECHNICIAN    2,000.00
+CROMWELL, OLIVER                          070    ZCOMPUTER SIENCE          920.00
+HEHEINLEN, HERBERT                        269    YCOMPUTER PRGRAMMER     1,500.00
+ASSIMOV, ISAAC                            264    YCOMPUTER PRGRAMMER        50.00
+JONES, WILLIAM                            269    YCOMPUTER PRGRAMMER     1,000.00
+SMITH, Bill                               268    XCOMPUTER TECHNICIAN    2,000.00
+CROMWELL, OLIVIA                          267    ZCOMPUTER SIENCE          920.00
+HEHEINLEN, HERBERT                        269    YCOMPUTER PRGRAMMER     1,500.00
+ASSIMOV, ISAAC                            264    YCOMPUTER PRGRAMMER        50.00
